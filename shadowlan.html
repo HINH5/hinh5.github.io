@@ -20,10 +20,10 @@
 	<h2>工作原理</h2>
 	<img style="float: right; width: 15em; border: solid; border-width: 1px" src="/figures/act.svg" />
 	<div style="float: left; width: 24em;">
-	  <p>右圖所示的就是影嵐的工作原理。在交換機和主機之間插入影嵐后，影嵐會監視從交換機（以太網）和主機之間的連接。</p>
+	  <p>右圖所示的就是影嵐的工作原理。在交換機和主機之間插入影嵐后，影嵐會監視交換機（以太網）和主機之間的連接。</p>
 	  <p>影嵐作爲透明橋接，運行在 OSI 模型的数据链路层。在這裏，透明橋接可以被視爲一個“軟”交換機。影嵐可以監視任何被橋接的網卡接口。</p>
 	  <p>影嵐使用 Linux 內核的 <a href="https://www.man7.org/linux/man-pages/man8/bridge.8.html">bridge</a> 接口來實現橋接，並讀取 layout 配置完成網絡初始化。</p>
-	  <p>需要注意的是：影嵐接入主機的連接需要其中一端具有 Auto-MDIX 功能，否則需要使用交叉線。</p>
+	  <p>需要注意的是：影嵐接入主機的連接需要其中一端具有 <a href="https://en.wikipedia.org/wiki/Medium-dependent_interface#Auto_MDI-X">Auto-MDIX</a> 功能，否則需要使用交叉線。</p>
 	</div>
       </section>
     </article>
