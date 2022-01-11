@@ -1,0 +1,13 @@
+graph { flow: north; }
+
+[ 路由器 ] --> [ 因特網 ] { shape: ellipse; }
+
+(以太網
+[ 交換機 ] { rows: 1; columns: 2; } --> [ 路由器 ] { shape: house; }
+[ 主機 | 主機 | 主機 ] --> { end: left; } [ 交換機 ]
+[ 影嵐 ] --> [ 交換機 ]
+)
+
+(被監視區域
+[ 主機 ] { flow: right; } --> { background: red; } [ 影嵐 ]
+){ background: red; }

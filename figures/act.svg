@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="417.4" height="493.8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!-- Generated at Wed Jan 12 06:58:44 2022 by:
+  Graph::Easy v0.76
+  Graph::Easy::As_svg v0.28
+-->
+
+<title>Untitled graph</title>
+<defs>
+ <!-- open arrow -->
+ <g id="ah" stroke-linecap="round" stroke-width="1">
+  <line x1="-8" y1="-4" x2="1" y2="0" />
+  <line x1="1" y1="0" x2="-8" y2="4" />
+ </g>
+
+ <!-- class definitions -->
+ <style type="text/css"><![CDATA[
+ .edge {
+  font-size: 13px;
+  stroke: black;
+  text-align: center;
+ }
+ .graph {
+  font-size: 16px;
+  text-align: center;
+ }
+ .node {
+  font-size: 16px;
+  text-align: center;
+ }
+ ]]></style>
+</defs>
+
+<!-- graph background with border (mainly for printing) -->
+<rect x="0.5" y="0.5" width="415.4" height="491.8" fill="white" stroke="white" />
+
+<g id="3" class="group">
+ <rect x="207.4" y="117" width="50" height="29" fill="#a0d0ff"/>
+ <line x1="207.9" y1="117.5" x2="256.9" y2="117.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="193.4" y="310" width="14" height="14" fill="#a0d0ff"/>
+ <line x1="193.9" y1="323.5" x2="206.9" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="271.4" y="182" width="50" height="14" fill="#a0d0ff"/>
+
+ <rect x="257.4" y="182" width="14" height="14" fill="#a0d0ff"/>
+
+ <rect x="385.4" y="117" width="14" height="29" fill="#a0d0ff"/>
+ <line x1="385.9" y1="117.5" x2="398.9" y2="117.5"  stroke="#000000" stroke-dasharray="6,2"/>
+ <line x1="398.9" y1="117.5" x2="398.9" y2="145.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="321.4" y="182" width="14" height="14" fill="#a0d0ff"/>
+
+ <rect x="31" y="117" width="78" height="29" fill="#a0d0ff"/>
+ <line x1="31.5" y1="117.5" x2="108.5" y2="117.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <!-- 以太網,  -->
+ <rect x="31" y="117" width="78" height="29" fill="#a0d0ff"/>
+ <line x1="31.5" y1="117.5" x2="108.5" y2="117.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <text x="37" y="136" style="font-family:serif;font-size:12.8px" fill="#000000" text-anchor="start">以太網</text>
+
+ <rect x="123" y="196" width="70.4" height="64" fill="#a0d0ff"/>
+
+ <rect x="109" y="146" width="14" height="36" fill="#a0d0ff"/>
+
+ <rect x="17" y="182" width="14" height="14" fill="#a0d0ff"/>
+ <line x1="17.5" y1="182.5" x2="17.5" y2="195.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="31" y="310" width="78" height="14" fill="#a0d0ff"/>
+ <line x1="31.5" y1="323.5" x2="108.5" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="17" y="146" width="14" height="36" fill="#a0d0ff"/>
+ <line x1="17.5" y1="146.5" x2="17.5" y2="181.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="109" y="182" width="14" height="14" fill="#a0d0ff"/>
+
+ <rect x="385.4" y="146" width="14" height="36" fill="#a0d0ff"/>
+ <line x1="398.9" y1="146.5" x2="398.9" y2="181.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="193.4" y="117" width="14" height="29" fill="#a0d0ff"/>
+ <line x1="193.9" y1="117.5" x2="206.9" y2="117.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="123" y="260" width="70.4" height="14" fill="#a0d0ff"/>
+
+ <rect x="335.4" y="117" width="50" height="29" fill="#a0d0ff"/>
+ <line x1="335.9" y1="117.5" x2="384.9" y2="117.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="109" y="196" width="14" height="64" fill="#a0d0ff"/>
+
+ <rect x="385.4" y="310" width="14" height="14" fill="#a0d0ff"/>
+ <line x1="398.9" y1="310.5" x2="398.9" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+ <line x1="385.9" y1="323.5" x2="398.9" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="385.4" y="196" width="14" height="64" fill="#a0d0ff"/>
+ <line x1="398.9" y1="196.5" x2="398.9" y2="259.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="17" y="196" width="14" height="64" fill="#a0d0ff"/>
+ <line x1="17.5" y1="196.5" x2="17.5" y2="259.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="207.4" y="310" width="50" height="14" fill="#a0d0ff"/>
+ <line x1="207.9" y1="323.5" x2="256.9" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="109" y="260" width="14" height="14" fill="#a0d0ff"/>
+
+ <rect x="335.4" y="310" width="50" height="14" fill="#a0d0ff"/>
+ <line x1="335.9" y1="323.5" x2="384.9" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="271.4" y="260" width="50" height="14" fill="#a0d0ff"/>
+
+ <rect x="17" y="260" width="14" height="14" fill="#a0d0ff"/>
+ <line x1="17.5" y1="260.5" x2="17.5" y2="273.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="321.4" y="260" width="14" height="14" fill="#a0d0ff"/>
+
+ <rect x="123" y="182" width="70.4" height="14" fill="#a0d0ff"/>
+
+ <rect x="257.4" y="260" width="14" height="14" fill="#a0d0ff"/>
+
+ <rect x="123" y="146" width="70.4" height="36" fill="#a0d0ff"/>
+
+ <rect x="17" y="274" width="14" height="36" fill="#a0d0ff"/>
+ <line x1="17.5" y1="274.5" x2="17.5" y2="309.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="321.4" y="117" width="14" height="29" fill="#a0d0ff"/>
+ <line x1="321.9" y1="117.5" x2="334.9" y2="117.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="257.4" y="117" width="14" height="29" fill="#a0d0ff"/>
+ <line x1="257.9" y1="117.5" x2="270.9" y2="117.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="385.4" y="182" width="14" height="14" fill="#a0d0ff"/>
+ <line x1="398.9" y1="182.5" x2="398.9" y2="195.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="271.4" y="117" width="50" height="29" fill="#a0d0ff"/>
+ <line x1="271.9" y1="117.5" x2="320.9" y2="117.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="123" y="117" width="70.4" height="29" fill="#a0d0ff"/>
+ <line x1="123.5" y1="117.5" x2="192.9" y2="117.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="207.4" y="182" width="50" height="14" fill="#a0d0ff"/>
+
+ <rect x="193.4" y="260" width="14" height="14" fill="#a0d0ff"/>
+
+ <rect x="123" y="310" width="70.4" height="14" fill="#a0d0ff"/>
+ <line x1="123.5" y1="323.5" x2="192.9" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="335.4" y="182" width="50" height="14" fill="#a0d0ff"/>
+
+ <rect x="321.4" y="146" width="14" height="36" fill="#a0d0ff"/>
+
+ <rect x="257.4" y="146" width="14" height="36" fill="#a0d0ff"/>
+
+ <rect x="385.4" y="274" width="14" height="36" fill="#a0d0ff"/>
+ <line x1="398.9" y1="274.5" x2="398.9" y2="309.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="31" y="260" width="78" height="14" fill="#a0d0ff"/>
+
+ <rect x="193.4" y="196" width="14" height="64" fill="#a0d0ff"/>
+
+ <rect x="335.4" y="260" width="50" height="14" fill="#a0d0ff"/>
+
+ <rect x="17" y="117" width="14" height="29" fill="#a0d0ff"/>
+ <line x1="17.5" y1="117.5" x2="30.5" y2="117.5"  stroke="#000000" stroke-dasharray="6,2"/>
+ <line x1="17.5" y1="117.5" x2="17.5" y2="145.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="271.4" y="310" width="50" height="14" fill="#a0d0ff"/>
+ <line x1="271.9" y1="323.5" x2="320.9" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="109" y="117" width="14" height="29" fill="#a0d0ff"/>
+ <line x1="109.5" y1="117.5" x2="122.5" y2="117.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="193.4" y="182" width="14" height="14" fill="#a0d0ff"/>
+
+ <rect x="321.4" y="310" width="14" height="14" fill="#a0d0ff"/>
+ <line x1="321.9" y1="323.5" x2="334.9" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="257.4" y="196" width="14" height="64" fill="#a0d0ff"/>
+
+ <rect x="193.4" y="146" width="14" height="36" fill="#a0d0ff"/>
+
+ <rect x="257.4" y="310" width="14" height="14" fill="#a0d0ff"/>
+ <line x1="257.9" y1="323.5" x2="270.9" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="321.4" y="196" width="14" height="64" fill="#a0d0ff"/>
+
+ <rect x="385.4" y="260" width="14" height="14" fill="#a0d0ff"/>
+ <line x1="398.9" y1="260.5" x2="398.9" y2="273.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="17" y="310" width="14" height="14" fill="#a0d0ff"/>
+ <line x1="17.5" y1="323.5" x2="30.5" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+ <line x1="17.5" y1="310.5" x2="17.5" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="207.4" y="260" width="50" height="14" fill="#a0d0ff"/>
+
+ <rect x="31" y="182" width="78" height="14" fill="#a0d0ff"/>
+
+ <rect x="109" y="310" width="14" height="14" fill="#a0d0ff"/>
+ <line x1="109.5" y1="323.5" x2="122.5" y2="323.5"  stroke="#000000" stroke-dasharray="6,2"/>
+</g>
+
+<g id="14" class="group">
+ <rect x="207.4" y="388" width="50" height="29" fill="#ff0000"/>
+ <line x1="207.9" y1="388.5" x2="256.9" y2="388.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="109" y="388" width="14" height="29" fill="#ff0000"/>
+ <line x1="109.5" y1="388.5" x2="122.5" y2="388.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="193.4" y="417" width="14" height="44.8" fill="#ff0000"/>
+
+ <rect x="257.4" y="388" width="14" height="29" fill="#ff0000"/>
+ <line x1="257.9" y1="388.5" x2="270.9" y2="388.5"  stroke="#000000" stroke-dasharray="6,2"/>
+ <line x1="270.9" y1="388.5" x2="270.9" y2="416.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="17" y="388" width="14" height="29" fill="#ff0000"/>
+ <line x1="17.5" y1="388.5" x2="30.5" y2="388.5"  stroke="#000000" stroke-dasharray="6,2"/>
+ <line x1="17.5" y1="388.5" x2="17.5" y2="416.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="257.4" y="461.8" width="14" height="14" fill="#ff0000"/>
+ <line x1="270.9" y1="462.3" x2="270.9" y2="475.3"  stroke="#000000" stroke-dasharray="6,2"/>
+ <line x1="257.9" y1="475.3" x2="270.9" y2="475.3"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="31" y="388" width="78" height="29" fill="#ff0000"/>
+ <line x1="31.5" y1="388.5" x2="108.5" y2="388.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <!-- 被監視區域,  -->
+ <rect x="31" y="388" width="78" height="29" fill="#ff0000"/>
+ <line x1="31.5" y1="388.5" x2="108.5" y2="388.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <text x="37" y="407" style="font-family:serif;font-size:12.8px" fill="#000000" text-anchor="start">被監視區域</text>
+
+ <rect x="123" y="388" width="70.4" height="29" fill="#ff0000"/>
+ <line x1="123.5" y1="388.5" x2="192.9" y2="388.5"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="193.4" y="461.8" width="14" height="14" fill="#ff0000"/>
+ <line x1="193.9" y1="475.3" x2="206.9" y2="475.3"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="207.4" y="461.8" width="50" height="14" fill="#ff0000"/>
+ <line x1="207.9" y1="475.3" x2="256.9" y2="475.3"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="109" y="461.8" width="14" height="14" fill="#ff0000"/>
+ <line x1="109.5" y1="475.3" x2="122.5" y2="475.3"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="257.4" y="417" width="14" height="44.8" fill="#ff0000"/>
+ <line x1="270.9" y1="417.5" x2="270.9" y2="461.3"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="17" y="461.8" width="14" height="14" fill="#ff0000"/>
+ <line x1="17.5" y1="475.3" x2="30.5" y2="475.3"  stroke="#000000" stroke-dasharray="6,2"/>
+ <line x1="17.5" y1="462.3" x2="17.5" y2="475.3"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="31" y="461.8" width="78" height="14" fill="#ff0000"/>
+ <line x1="31.5" y1="475.3" x2="108.5" y2="475.3"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="109" y="417" width="14" height="44.8" fill="#ff0000"/>
+
+ <rect x="123" y="461.8" width="70.4" height="14" fill="#ff0000"/>
+ <line x1="123.5" y1="475.3" x2="192.9" y2="475.3"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="17" y="417" width="14" height="44.8" fill="#ff0000"/>
+ <line x1="17.5" y1="417.5" x2="17.5" y2="461.3"  stroke="#000000" stroke-dasharray="6,2"/>
+
+ <rect x="193.4" y="388" width="14" height="29" fill="#ff0000"/>
+ <line x1="193.9" y1="388.5" x2="206.9" y2="388.5"  stroke="#000000" stroke-dasharray="6,2"/>
+</g>
+
+<g id="10" class="edge">
+ <!-- from 主機主機主機.1 to 交換機 -->
+ <!-- vertical -->
+ <rect x="271.4" y="196" width="50" height="64" fill="#a0d0ff" stroke="none" />
+ <line x1="296.4" y1="202.4" x2="296.4" y2="252.6" stroke="#000000" />
+ <use stroke="#000000" xlink:href="#ah" transform="translate(296.4 253.6)rotate(90)"/>
+</g>
+
+<g id="11" class="edge">
+ <!-- from 主機主機主機.2 to 交換機 -->
+ <!-- vertical -->
+ <rect x="335.4" y="196" width="50" height="64" fill="#a0d0ff" stroke="none" />
+ <line x1="360.4" y1="202.4" x2="360.4" y2="252.6" stroke="#000000" />
+ <use stroke="#000000" xlink:href="#ah" transform="translate(360.4 253.6)rotate(90)"/>
+</g>
+
+<g id="13" class="edge">
+ <!-- from 影嵐 to 交換機 -->
+ <!-- vertical -->
+ <line x1="70" y1="331.4" x2="70" y2="381.6" stroke="#000000" />
+ <use stroke="#000000" xlink:href="#ah" transform="translate(70 330.4)rotate(-90)"/>
+</g>
+
+<g id="16" class="edge">
+ <!-- from 主機 to 影嵐 -->
+ <!-- horizontal -->
+ <rect x="123" y="417" width="70.4" height="44.8" fill="#ff0000" stroke="none" />
+ <line x1="131.04" y1="439.4" x2="186.36" y2="439.4" stroke="#000000" />
+ <use stroke="#000000" xlink:href="#ah" transform="translate(130.04 439.4)rotate(180)"/>
+</g>
+
+<g id="2" class="edge">
+ <!-- from 路由器 to 因特網 -->
+ <!-- vertical -->
+ <line x1="70" y1="60.4" x2="70" y2="110.6" stroke="#000000" />
+ <use stroke="#000000" xlink:href="#ah" transform="translate(70 59.4)rotate(-90)"/>
+</g>
+
+<g id="5" class="edge">
+ <!-- from 交換機 to 路由器 -->
+ <!-- vertical -->
+ <rect x="31" y="196" width="78" height="64" fill="#a0d0ff" stroke="none" />
+ <line x1="70" y1="203.4" x2="70" y2="253.6" stroke="#000000" />
+ <use stroke="#000000" xlink:href="#ah" transform="translate(70 202.4)rotate(-90)"/>
+</g>
+
+<g id="9" class="edge">
+ <!-- from 主機主機主機.0 to 交換機 -->
+ <!-- vertical -->
+ <rect x="207.4" y="196" width="50" height="64" fill="#a0d0ff" stroke="none" />
+ <line x1="232.4" y1="202.4" x2="232.4" y2="252.6" stroke="#000000" />
+ <use stroke="#000000" xlink:href="#ah" transform="translate(232.4 253.6)rotate(90)"/>
+</g>
+
+<g id="0" class="node">
+ <!-- 路由器, house -->
+ <rect x="31" y="146" width="78" height="36" fill="#a0d0ff" />
+ <polygon points="70,146.5, 108.5,158.32, 108.5,181.5, 31.5,181.5, 31.5,158.32" fill="#ffffff" stroke="#000000" />
+ <text x="70" y="173.6" style="font-family:serif" fill="#000000" text-anchor="middle">路由器</text>
+</g>
+
+<g id="1" class="node">
+ <!-- 因特網, ellipse -->
+ <ellipse cx="70" cy="35" fill="#ffffff" rx="38.5" ry="17.5" stroke="#000000" />
+ <text x="70" y="41" style="font-family:serif" fill="#000000" text-anchor="middle">因特網</text>
+</g>
+
+<g id="4" class="node">
+ <!-- 交換機, rect -->
+ <rect fill="#ffffff" height="35" stroke="#000000" width="353.4" x="31.5" y="274.5" />
+ <text x="208" y="298" style="font-family:serif" fill="#000000" text-anchor="middle">交換機</text>
+</g>
+
+<g id="6" class="node">
+ <!-- 主機主機主機.0, rect -->
+ <rect fill="#ffffff" height="35" stroke="#000000" width="49" x="207.9" y="146.5" />
+ <text x="232" y="170" style="font-family:serif" fill="#000000" text-anchor="middle">主機</text>
+</g>
+
+<g id="7" class="node">
+ <!-- 主機主機主機.1, rect -->
+ <rect fill="#ffffff" height="35" stroke="#000000" width="49" x="271.9" y="146.5" />
+ <text x="296" y="170" style="font-family:serif" fill="#000000" text-anchor="middle">主機</text>
+</g>
+
+<g id="8" class="node">
+ <!-- 主機主機主機.2, rect -->
+ <rect fill="#ffffff" height="35" stroke="#000000" width="49" x="335.9" y="146.5" />
+ <text x="360" y="170" style="font-family:serif" fill="#000000" text-anchor="middle">主機</text>
+</g>
+
+<g id="12" class="node">
+ <!-- 影嵐, rect -->
+ <rect fill="#ffffff" height="43.8" stroke="#000000" width="77" x="31.5" y="417.5" />
+ <text x="70" y="445" style="font-family:serif" fill="#000000" text-anchor="middle">影嵐</text>
+</g>
+
+<g id="15" class="node">
+ <!-- 主機, rect -->
+ <rect fill="#ffffff" height="43.8" stroke="#000000" width="49" x="207.9" y="417.5" />
+ <text x="232" y="445" style="font-family:serif" fill="#000000" text-anchor="middle">主機</text>
+</g>
+
+</svg>

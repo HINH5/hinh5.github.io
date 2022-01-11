@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bafs/mu@0.3/mu.min.css" />
+    <title>ShadowLAN</title>
+  </head>
+  <body>
+    <article>
+      <header>
+	<h1 style="text-align: center;">歡迎來到影嵐的主頁</h1>
+	<hr>
+	<p>影嵐是自由的滲透測試軟件，可以通過橋接的方式進行中間人攻擊而不被察覺。</p>
+	<p>影嵐由 HINH5 <sup>(HINH5 is not Hak5)</sup> 小組與志願者們開發！
+	  如果您想貢獻代碼、翻譯或文檔可以聯繫我們，或提交請求。</p>
+      </header>
+      <section>
+	<h2>工作原理</h2>
+	<img style="float: right; width: 15em; border: solid; border-width: 1px" src="/figures/act.svg" />
+	<div style="float: left; width: 24em;">
+	  <p>右圖所示的就是影嵐的工作原理。在交換機和主機之間插入影嵐后，影嵐會監視從交換機（以太網）和主機之間的連接。</p>
+	  <p>影嵐作爲透明橋接，運行在 OSI 模型的数据链路层。在這裏，透明橋接可以被視爲一個“軟”交換機。影嵐可以監視任何被橋接的網卡接口。</p>
+	  <p>影嵐使用 Linux 內核的 <a href="https://www.man7.org/linux/man-pages/man8/bridge.8.html">bridge</a> 接口來實現橋接，並讀取 layout 配置完成網絡初始化。</p>
+	  <p>需要注意的是：影嵐接入主機的連接需要其中一端具有 Auto-MDIX 功能，否則需要使用交叉線。</p>
+	</div>
+      </section>
+    </article>
+    </body>
+</html>
