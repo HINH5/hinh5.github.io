@@ -18,7 +18,42 @@
       </header>
       <section>
 	<h2>工作原理</h2>
-	<img style="float: right; width: 15em; border: solid; border-width: 1px" src="/figures/act.svg" />
+	<div style="float: right; width: 15em;">
+	  <img style="border: solid; border-width: 1px; width: 15em;" src="/figures/act.svg" />
+	  <table style="border: solid; border-width: 1px;">
+	    <caption><strong>Cable requirement for Ethernet link</strong></caption>
+	    <tbody>
+	      <tr>
+		<th>From/To</th>
+		<th>MDI</th>
+		<th>MDI-X</th>
+		<th>Auto MDI-X
+	      </th></tr>
+	      <tr>
+		<th>MDI
+		</th>
+		<td>crossover</td>
+		<td>straight</td>
+		<td>any
+	      </td></tr>
+	      <tr>
+		<th>MDI-X
+		</th>
+		<td>straight</td>
+		<td>crossover</td>
+		<td>any
+	      </td></tr>
+	      <tr>
+		<th>Auto MDI-X
+		</th>
+		<td>any</td>
+		<td>any</td>
+		<td>any
+		</td>
+	      </tr>
+	    </tbody>
+	  </table>
+	</div>
 	<div style="float: left; width: 24em;">
 	  <p>右圖所示的就是影嵐的工作原理。在交換機和主機之間插入影嵐后，影嵐會監視交換機（以太網）和主機之間的連接。</p>
 	  <p>影嵐作爲透明橋接，運行在 OSI 模型的数据链路层。在這裏，透明橋接可以被視爲一個“軟”交換機。影嵐可以監視任何被橋接的網卡接口。</p>
